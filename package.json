@@ -11,7 +11,7 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^2.6.14",
-    "vue-amis-sdk": "^2.7.2"
+    "vue-amis-sdk": "latest"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
